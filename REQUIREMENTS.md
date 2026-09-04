@@ -4,8 +4,8 @@ Backend-first issue tracking system for teams to manage projects and work items.
 
 ## 1. Project Setup
 
-- [ ] Create a Spring Boot project with Java and Maven
-- [ ] Add Spring Web, Spring Data JPA, Validation, PostgreSQL, and Lombok dependencies
+- [x] Create a Spring Boot project with Java and Maven
+- [x] Add Spring Web, Spring Data JPA, Validation, PostgreSQL, and Lombok dependencies
 - [ ] Configure application profiles for development and test
 - [ ] Add a `.gitignore` for Java, Maven, IDE, and environment files
 - [ ] Add a basic health endpoint
