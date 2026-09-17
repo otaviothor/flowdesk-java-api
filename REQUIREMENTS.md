@@ -8,7 +8,7 @@ Backend-first issue tracking system for teams to manage projects and work items.
 - [x] Add Spring Web, Spring Data JPA, Validation, PostgreSQL, and Lombok dependencies
 - [x] Configure application profiles for development and test
 - [X] Add a `.gitignore` for Java, Maven, IDE, and environment files
-- [ ] Add a basic health endpoint
+- [x] Add a basic health endpoint
 - [ ] Create the initial package structure
 - [ ] Write a README with project goals and local setup instructions
 
