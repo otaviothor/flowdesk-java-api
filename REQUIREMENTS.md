@@ -12,7 +12,7 @@ The phases below are ordered so each can be implemented and exercised before bui
 - [x] Add a `.gitignore` for Java, Maven, IDE, and environment files
 - [x] Add a basic health endpoint
 - [x] Create the initial package structure
-- [ ] Write a README with project goals and local setup instructions
+- [x] Write a README with project goals and local setup instructions
 
 ## Phase 1: Agree on the API and Data Foundations
 
